@@ -4,10 +4,9 @@
 - This program will recursively find a path from a starting point 'S' to an end point 'G' of a maze specified in a text file.
 - The solution is written to a text file.
 ```html
-<h2>Example of code</h2>
-<pre>
 Example:
-Input file:
+
+Input File:
 
 XXXXXXXXXXX
 XXSXXXXX XX
@@ -42,5 +41,4 @@ XX.XX XX XX
 XX.XGXXXXXX
 XX...XXXXXX
 XXXXXXXXXXX
-</pre>
 ```
