@@ -87,7 +87,7 @@ public class Maze {
 											// we're sure we reached the
 											// destination
 			try {
-				File file = new File("SOLUTION"+this.outputFilename); // creating an output file and naming
+				File file = new File(this.outputFilename+" solved"); // creating an output file and naming
 																			 //according the problem's requirement
 				PrintWriter writer = new PrintWriter(file);
 				for (int i = 0; i < this.rows; i++) {
