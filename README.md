@@ -7,7 +7,7 @@
 Example:
 
 Input File:
-
+```html
 XXXXXXXXXXX
 XXSXXXXX XX
 XX XXXXX XX
