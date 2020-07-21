@@ -7,7 +7,7 @@
 Example:
 
 Input File:
-```html
+```
 XXXXXXXXXXX
 XXSXXXXX XX
 XX XXXXX XX
@@ -23,9 +23,9 @@ XX XX XX XX
 XX XGXXXXXX
 XX   XXXXXX
 XXXXXXXXXXX
-
+```
 Output file:
-
+```
 XXXXXXXXXXX
 XXSXXXXX XX
 XX.XXXXX XX
