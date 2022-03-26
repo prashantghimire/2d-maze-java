@@ -11,7 +11,7 @@ Input File:
 
 <pre>
 XXXXXXXXXXX
-XX<bold style="color: red">S</bold>XXXXX XX
+XX<span style="color: red">S</span>XXXXX XX
 XX XXXXX XX
 XX XXXXX XX
 XX XXXXX XX
@@ -22,7 +22,7 @@ XX  X XXXXX
 XX  X XXXXX
 XX XX XX XX
 XX XX XX XX
-XX X<bold style="color: green">G</bold>XXXXXX
+XX X<span style="color: green">G</span>XXXXXX
 XX   XXXXXX
 XXXXXXXXXXX
 </pre>
@@ -31,7 +31,7 @@ Output file:
 
 <pre>
 XXXXXXXXXXX
-XX<bold style="color:red">S</bold>XXXXX XX
+XX<span style="color:red">S</span>XXXXX XX
 XX.XXXXX XX
 XX.XXXXX XX
 XX.XXXXX XX
@@ -42,7 +42,7 @@ XX .X XXXXX
 XX..X XXXXX
 XX.XX XX XX
 XX.XX XX XX
-XX.X<bold style="color: green">G</bold>XXXXXX
+XX.X<span style="color: green">G</span>XXXXXX
 XX...XXXXXX
 XXXXXXXXXXX
 </pre>
