@@ -9,9 +9,9 @@ Example:
 
 Input File:
 
-```
+<pre>
 XXXXXXXXXXX
-XXSXXXXX XX
+XX<bold>S</bold>XXXXX XX
 XX XXXXX XX
 XX XXXXX XX
 XX XXXXX XX
@@ -22,16 +22,16 @@ XX  X XXXXX
 XX  X XXXXX
 XX XX XX XX
 XX XX XX XX
-XX XGXXXXXX
+XX X<bold>G</bold>XXXXXX
 XX   XXXXXX
 XXXXXXXXXXX
-```
+</pre>
 
 Output file:
 
-```
+<pre>
 XXXXXXXXXXX
-XXSXXXXX XX
+XX<bold>S</bold>XXXXX XX
 XX.XXXXX XX
 XX.XXXXX XX
 XX.XXXXX XX
@@ -42,7 +42,7 @@ XX .X XXXXX
 XX..X XXXXX
 XX.XX XX XX
 XX.XX XX XX
-XX.XGXXXXXX
+XX.X<bold>G</bold>XXXXXX
 XX...XXXXXX
 XXXXXXXXXXX
-```
+</pre>
